@@ -8,7 +8,7 @@ namespace V3.Controllers
     [ApiController]
     public class CarrinhoController : ControllerBase
     {
-        
+
         //GET
         [HttpGet("/carrinho")]
         public IActionResult Get([FromServices] AppDataContext context)=> Ok(context.Carrinhos.

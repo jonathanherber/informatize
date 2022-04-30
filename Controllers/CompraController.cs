@@ -10,6 +10,7 @@ namespace V3.Controllers
     public class ComprasController : ControllerBase
     {
         decimal valorfinal;
+
         //[Route("/orders")]
         //GET
         [HttpGet("/compras")]
@@ -45,9 +46,10 @@ namespace V3.Controllers
                 {
                     foreach (var q in qtd)
                     {
-                        var preco = p;
+                        decimal preco = p;
                         int quant = q;
                         valorfinal = preco * quant;
+                        break;
                     }
                 }
                 compras.Valor = valorfinal;
