@@ -10,8 +10,8 @@ using V3.Data;
 namespace v3.Migrations
 {
     [DbContext(typeof(AppDataContext))]
-    [Migration("20220430164255_update")]
-    partial class update
+    [Migration("20220430184039_create")]
+    partial class create
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

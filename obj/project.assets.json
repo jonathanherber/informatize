@@ -908,11 +908,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jonathan\\Desktop\\v3\\v3.csproj",
+      "projectUniqueName": "C:\\Users\\Jonathan\\Desktop\\Data\\v3\\v3.csproj",
       "projectName": "v3",
-      "projectPath": "C:\\Users\\Jonathan\\Desktop\\v3\\v3.csproj",
+      "projectPath": "C:\\Users\\Jonathan\\Desktop\\Data\\v3\\v3.csproj",
       "packagesPath": "C:\\Users\\Jonathan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jonathan\\Desktop\\v3\\obj\\",
+      "outputPath": "C:\\Users\\Jonathan\\Desktop\\Data\\v3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jonathan\\AppData\\Roaming\\NuGet\\NuGet.Config"
