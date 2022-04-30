@@ -14,3 +14,8 @@ Nas rotas de Carrinho: adicionar produtos ao carrinho
 #
 Nas rotas de Compra: finaliza uma compra que possua um carrinho gerado
 #
+Para subir o Banco:
+docker-compose up
+#
+Para executar o app:
+dotnet run
