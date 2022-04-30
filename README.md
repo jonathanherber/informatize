@@ -2,6 +2,8 @@ APIs para cadastro de Clientes, Produtos, gerar Carrinho e Finalizar Compras
 #
 Usando Swagger para Testar os Endpoints
 #
+Banco de Dados MySQL em Docker
+#
 Utilizando ASP.NET Core e Entity Framework Core
 #
 Nas rotas de Clientes: apenas cadastro normal 
