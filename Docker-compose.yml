@@ -8,3 +8,5 @@ services:
       MYSQL_DATABASE: "comercio"
     ports:
       - "3306:3306"
+    volumes:
+      - ../Data/MySqlBackup:/var/lib/mysql
